@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c72747e-8cb1-4af4-b1a6-c250745c401b" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Post.ts" beforeDir="false" afterPath="$PROJECT_DIR$/models/Post.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/auth.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/posts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routes/posts.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog-front/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-front/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog-front/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-front/src/main.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog-front/src/pages/EditPost.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-front/src/pages/EditPost.tsx" afterDir="false" />
+    <list default="true" id="6c72747e-8cb1-4af4-b1a6-c250745c401b" name="更改" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,19 +14,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "18050939892"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;18050939892&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/18050939892/blog-api.git",
-    "accountId": "d3e87e2a-5e1e-4c4e-9b63-70d15bec1f9f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/18050939892/blog-api.git&quot;,
+    &quot;accountId&quot;: &quot;d3e87e2a-5e1e-4c4e-9b63-70d15bec1f9f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
@@ -79,11 +71,49 @@
       <option name="presentableId" value="Default" />
       <updated>1744897617392</updated>
       <workItem from="1744897618477" duration="1009000" />
-      <workItem from="1744898643588" duration="3191000" />
+      <workItem from="1744898643588" duration="4258000" />
+      <workItem from="1744904527813" duration="315000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1744903518473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744903518474</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1744903529265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744903529265</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1744903691036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744903691036</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1744903699337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744903699337</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
